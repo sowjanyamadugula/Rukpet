@@ -12,7 +12,7 @@
     color: white;
     display: flex;
     gap: 5px;
-    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    
     font-size: small;
 }
 .div1{
@@ -142,7 +142,7 @@ color: #FFFFFF;
     font-family: raleway, sans-serif;
     font-weight: 300;  
     text-align: justify;  
-    /* margin-left: 10%; */
+    
     margin-right: 10%;
     }
     #buttonu31162 {
@@ -322,10 +322,7 @@ display: flex;
         display: flex;
     
       }
-      /* .Duis autem vel eum iriure{
-        padding-top: 30%;
-        padding-left: 30%;
-      } */
+      
       .c1-d1{
         display: flex;
         padding-left: 5%;
@@ -353,7 +350,7 @@ display: flex;
       }
     .sec6{
         background-color:#89BE00 ;
-        /* background-image: url("dog-parrot-cat.jpg"); */
+        
         padding-top: 3%;
     }
     #u31586_align_to_page, #u32202_align_to_page, #u32203_align_to_page {
@@ -481,7 +478,7 @@ display: flex;
         justify-content: center;
         padding-top: 5%;
         padding-bottom: 5%;
-        /* background-image: url("dog-parrot-cat.jpg"); */
+        
     }   
     .What-Our-Customer-Say{
         display: flex;
@@ -616,42 +613,3 @@ display: flex;
     padding-bottom: 2%;
     padding-left: 40%;
 }
-/* .sec8{
-    background-color:  #00AEEF;
-}
-.total-divs3{
-    display: flex;
-    justify-items: center;
-}
-.sec-div1{
-    color: white;
-    display: flex;
-    padding-top: 5%;
-
-}
-.sec8-para{
-    text-align: justify;
-    color: white;
-    padding-top: 2%;
-    padding-right: 30%;
-}
-.sec-div2{
-    color: white;
-    display: flex;
-    padding-top: 5%;
-    padding-left: 10%;
-    padding-right: 50%;
-}
-.i2{
-    color: white;
-    display: flex;
-}
-.images1{
-    display: flex;
-}
-.images2{
-    display: flex;
-}
-.total-images{
-    padding-right: 20%;
-} */
